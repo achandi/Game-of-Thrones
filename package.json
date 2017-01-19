@@ -1,0 +1,17 @@
+{
+    "name": "gameofthrones",
+    "version": "1.0.0",
+    "description": "Game of Thrones",
+    "main": "gameofthrones.js",
+    "author": "Massively",
+    "dependencies": {
+        "express": "^4.13.4",
+        "firebase-admin": "^4.0.3",
+        "lodash": "^4.13.1",
+        "moment": "^2.13.0",
+        "q": "^1.4.1",
+        "request": "^2.75.0",
+        "request-promise": "^4.1.1",
+        "watson-developer-cloud": "^2.2.0"
+    }
+}
